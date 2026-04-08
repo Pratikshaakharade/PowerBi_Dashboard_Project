@@ -32,4 +32,4 @@ This project showcases an interactive Ecommerce Sales Dashboard used to analyze 
 * COD is most used payment method
 * Clothing category dominates
 
-screenshot:-https://github.com/Pratikshaakharade/PowerBi_Dashboard_Project/blob/main/Ecommerce%20Sales%20Dashbaord.png
+
